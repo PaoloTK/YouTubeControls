@@ -1,4 +1,4 @@
-# YouTubeControls
+# YouTube Controls
 ## The problem
 I watch a lot of tutorials on YouTube, and when I'm working in another tab or program having to constantly switch back to Chrome to pause and unpause or rewind the tutorial gets old fast. While I could find third party extensions to bind YouTube play/pause function to a keyboard hotkey none existed that allowed me to also rewind or fast forward the video.
 ## Disclaimer
