@@ -20,5 +20,5 @@ These instructions work as of May 2021. It's my understanding that YouTube has b
 9. Navigate to chrome://extensions/shortcuts, and you will find a list of your extensions with forms to configure their hotkeys. 
 10. Under "Global shortcuts", assign hotkeys to "Command 01", "Command 02" and "Command 03" by clicking the corresponding pencil icon and then entering the hotkey combination. I personally use "Alt + Shift + U" for Command 01 (rewind), "Alt + Shift + I" for Command 02 (play/pause) and "Alt + Shift + O" for "Command 03 (fast forward).
 11. Set each shortcut as "Global" or "In Chrome" based on your preferences. 
-12. That's it! You're now able to control YouTube while its tab is not in focus - with Chrome in focus or not depending on what you picked in step 10.
-13. (Optional) I used AutoHotkey to remap my hotkeys to my keyboard dial so I can scrub and play/pause YouTube by rotating the dial or pressing it.
+12. That's it! You're now able to control YouTube while its tab is not in focus - with Chrome in focus or not depending on what you picked in step 11.
+13. (Optional) I use AutoHotkey to remap my hotkeys to my keyboard dial so I can scrub and play/pause YouTube by rotating the dial or pressing it.
